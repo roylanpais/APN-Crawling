@@ -32,7 +32,7 @@ if __name__ == "__main__":
 
 
     # Replace <db_password> with your actual password
-    client = MongoClient("mongodb+srv://roylanpais:EYf3MRgNzsGRC3!@appdatacluster.3brmsga.mongodb.net/?retryWrites=true&w=majority&appName=Appdatacluster")
+    client = MongoClient("mongodb+srv://rC3oer")
 
     # Select your database and collection
     db = client["apn_data_extraction"]           # Replace with your DB name
